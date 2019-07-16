@@ -1,0 +1,33 @@
+save
+
+horse
+
+busy
+
+evil
+
+pass
+
+book
+
+cash
+
+pair
+
+strike
+
+program
+
+obvious
+
+great
+
+
+
+
+API Key: MrZYSYA6WEwELJDo
+
+API Secret: TEIqHIxFw8J4R2d8Lq8u1ULuMuNqvOWD
+
+
+blockchain-wallet-service start --port 3000

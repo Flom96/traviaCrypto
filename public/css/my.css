@@ -1,0 +1,10 @@
+.edit-profile {
+    width: 100%; 
+    border: 1px solid #00c6ff; 
+    box-sizing: border-box; 
+    border-radius: 10px;  
+    padding: 10px; 
+    margin: 4px 0; 
+    font-size: 16px; 
+    background-color: white;
+}
